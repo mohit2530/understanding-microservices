@@ -11,6 +11,9 @@ public class CatalogItem {
   private String description;
   private double rating;
 
+  public CatalogItem() {
+  }
+
   /**
    * Constructor
    *
